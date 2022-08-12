@@ -1,11 +1,15 @@
  export const skillsData = [
     'Ubuntu',
     'Python',
+    'HTML',
+    'Django',
     'C++',
     'PHP',
     'Git',
     'AWS',
     'JS',
+    'MySQL',
+    'Canva',
     'Wordpress',
 ]
 
