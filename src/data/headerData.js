@@ -2,8 +2,8 @@ import resume from '../assets/pdf/resume.pdf'
 
 export const headerData = {
     name: 'Ahad Abbasi',
-    title: "Security Researcher | Penetration Tester | Cyber security",
-    desciption:"I like to break things to make them better.\n It takes 20 years to build a reputation and few minutes of cyber-incident to ruin it.",
+    title: "OSCP | Security Researcher | Penetration Tester | Cybersecurity Specialist",
+    desciption:"Offensive Security Certified Professional specializing in ethical hacking, penetration testing, and vulnerability research. Passionate about breaking systems to make them stronger. Building a more secure digital future, one vulnerability at a time.",
     image: 'https://i.ibb.co/J3X98xd/Ahad-Abbasi.png',
     resumePdf: resume
 }
